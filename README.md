@@ -1,16 +1,15 @@
-### Hi there 👋
+### Lilian Boinard :octocat: ###
 
-<!--
-**LilianBoinard/LilianBoinard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+***Languages:***
+- [X] :fr:
+- [X] :gb:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+- IT developer student 🧑‍🎓
+
+<p align="center">
+<a href="https://github.com/LilianBoinard"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilianBoinard&layout=compact&bg_color=0d1117&hide_border=true&title_color=FFFFFF&text_color=FFFFFF" /></a><img src="https://cdn.discordapp.com/emojis/597136386881224704.gif?v=1"/>
+</p>
