@@ -12,4 +12,3 @@
 __________
 
 - [X] :fr:, :uk:
-- [ ] other languages
