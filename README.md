@@ -1,6 +1,6 @@
 ### Lilian Boinard :octocat: ###
 
-- IT developer student 🧑‍🎓
+- French IT developer
 
 
 <br/>
