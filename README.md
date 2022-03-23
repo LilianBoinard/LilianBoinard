@@ -1,7 +1,9 @@
 ### Lilian Boinard :octocat: ###
 
-- French IT developer
+Skills: 
+Python, Django, Automation, Scrapping, Scripting, Deep learning,
 
+Typescript, AutoIt, Rust, HTML5, CSS3, BATCH and more...
 
 <br/>
 
